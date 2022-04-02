@@ -1,0 +1,26 @@
+.container{
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+    .box{
+        width: 100px;
+        height: 100px;
+        background-color: crimson;
+        h1{
+            color: white;
+        }
+        button{
+            padding: 7px 20px;
+            background-color: yellowgreen;
+        }
+    }
+    .box2{
+        width: 150px;
+        height: 150px;
+        background-color: black;
+        h1{
+            color:red;
+        }
+
+        }
+}
